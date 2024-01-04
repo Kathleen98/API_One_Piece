@@ -1,0 +1,137 @@
+{
+    "images": [
+        {
+            "id": "1",
+            "name": "Luff",
+            "src": "https://i.pinimg.com/564x/2e/e8/28/2ee828940755c84fa5540ed8e4658bea.jpg"
+        },
+
+        {
+            "id": "2",
+            "name": "Zoro",
+            "src": "https://i.pinimg.com/564x/4f/80/ea/4f80ea2791086029a6922d3d131c26fe.jpg"
+        },
+
+        {
+            "id": "3",
+            "name": "Nami",
+            "src": "https://i.pinimg.com/564x/6b/b2/a6/6bb2a6a71aa20748430265108af6d3c8.jpg"
+        },
+
+        {
+            "id": "4",
+            "name": "Robin",
+            "src": "https://i.pinimg.com/564x/70/29/6e/70296ec9a42b9e69b1dc353cb49293ff.jpg"
+        },
+
+        {
+            "id": "5",
+            "name": "Chopper",
+            "src": "https://i.pinimg.com/564x/54/9a/f6/549af64984182cdf45c974ce320888ae.jpg"
+        },
+
+        {
+            "id": "6",
+            "name": "Usopp",
+            "src": "https://i.pinimg.com/564x/ec/3b/ea/ec3beada52663335713e4e1c9e7e6416.jpg"
+        },
+
+        {
+            "id": "7",
+            "name": "Franky",
+            "src": "https://i.pinimg.com/564x/eb/35/fe/eb35fea92265735e76eb1fc83b18fe7c.jpg"
+        },
+
+        {
+            "id": "8",
+            "name": "Brook",
+            "src": "https://i.pinimg.com/564x/19/bb/2e/19bb2eb4756747576c8eeb3b6e149f87.jpg"
+        },
+
+        {
+            "id": "9",
+            "name": "Sanji",
+            "src": "https://i.pinimg.com/564x/0b/10/24/0b102489f662b8779e40f8cbebf77a6b.jpg"
+        }
+    ],
+
+    "world": [
+        {
+            "id": "1",
+            "name": "North Blue",
+            "image": "https://animementor.com/wp-content/uploads/2022/08/North-Blue-.jpg",
+            "paragrafy": "O mar onde as ondas dançam ao ritmo da aventura! Este é o oceano que faz fronteira com o East Blue, West Blue e é dividido pela Linha Vermelha e pela Grand Line. Um lugar cheio de histórias incríveis que fariam até mesmo o Rei dos Piratas levantar a sobrancelha!",
+            "link": "Ver mais"
+        },
+
+        {
+            "id": "2",
+            "name": "South Blue",
+            "image": "https://pm1.aminoapps.com/6899/2537be546fdc0eae6ce02cc0bcf91bbc8b6a9195r4-660-330_00.jpg",
+            "paragrafy": "O oceano que faz seu nome sussurrar pelas ondas como uma canção de aventura! Aqui, onde os mares se estendem até onde os olhos podem ver, e ilhas escondidas pontilham a vastidão azul, o South Blue é um reino de mistério e emocionantes histórias.",
+            "link": "Ver mais"
+        },
+
+        {   
+            "id": "3",
+            "name": "East Blue",
+            "image": "./src/img/east_blue_map.jpg",
+            "paragrafy": "Na Grand Line, onde as ondas escondem mistérios e os corações dos piratas batem mais forte, a fama toma formas surpreendentes. O que é considerado assombroso no East Blue pode ser apenas uma brisa suave nas turbulentas águas da Grand Line.",
+            "link": "Ver mais"
+        },
+
+        {
+            "id": "4",
+            "name": "West Blue",
+            "image": "https://pm1.aminoapps.com/7332/516f9c6beda3d49346e55af1549e505cc07eac17r4-492-246_00.jpg",
+            "paragrafy": "O oceano onde os ventos sussurram segredos e cada onda conta uma história única! Uma vastidão de mistérios que se estende até onde os olhos podem ver, onde o desconhecido aguarda aqueles corajosos o suficiente para desbravá-lo.",
+            "link": "Ver mais"
+        }
+
+    ],
+
+    "videos": [
+        {
+            "id":"1",
+            "titulo":"AMIGO OCULTO DE ONE PIECE - PARTE 1",
+            "url": "https://www.youtube.com/embed/gokKQzqCCSg",
+            "imagem":"https://i.ytimg.com/vi/gokKQzqCCSg/maxresdefault.jpg"
+        },
+
+        {
+            "id":"2",
+            "titulo":"ONE PIECE 20 MINUTOS DE MEMES E ZUEIRAS",
+            "url": "https://www.youtube.com/embed/BH_3SxP1oKI",
+            "imagem":"https://i.ytimg.com/vi/BH_3SxP1oKI/sddefault.jpg"
+        },
+
+        {
+            "id":"3",
+            "titulo":"THRILLER BARK MELHORES MOMENTOS DUBLADOS!(ONE PIECE)",
+            "url": "https://www.youtube.com/embed/nxLGGBjwcXw",
+            "imagem":"https://i.ytimg.com/vi/nxLGGBjwcXw/maxresdefault.jpg"
+        },
+
+        {
+            "id":"4",
+            "titulo":"CENAS ENGRAÇADAS EM ONE PIECE (Dublado e legendado HD)",
+            "url": "https://www.youtube.com/embed/jpJhOiFcT6w",
+            "imagem":"https://i.ytimg.com/vi/g7SfhJZ68pg/maxresdefault.jpg"
+        },
+
+        {
+            "id":"5",
+            "titulo":"PEROLAS NA DUBLAGEM DE ONE PIECE PARTE 1 (TENTE NÃO RIR)",
+            "url": "https://www.youtube.com/embed/yLVmZXto9lU",
+            "imagem":"https://i.ytimg.com/vi/yLVmZXto9lU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rsAOn4CLB08HTalFnVnGD_wdSBopbqdVnZYw"
+        },
+
+        {
+            "id":"6",
+            "titulo":"PEROLAS NA DUBLAGEM DE ONE PIECE PARTE 2 (TENTE NÃO RIR)",
+            "url": "https://www.youtube.com/embed/iwpZ6FyVMJc",
+            "imagem":"https://i.ytimg.com/vi/iwpZ6FyVMJc/hqdefault.jpg"
+        }
+
+    ]
+}
